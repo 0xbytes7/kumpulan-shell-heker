@@ -1,9 +1,9 @@
 ### SHELL CODE YANG KU TEMUI DARI BERBAGAI WEB
 ### List Pass
 
-jancok458	
-zoromemek	
-konslet
+# jancok458	
+# zoromemek	
+# konslet
 kronkz	
 netcat
 l o l	
